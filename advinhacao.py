@@ -57,7 +57,7 @@ def jogar():
         pontos = pontos - pontos_perdidos
 
     print("Fim do jogo")
-    time.sleep(3)    
+    time.sleep(5)    
     os.system('cls')
     games.escolhe_jogo() 
 
